@@ -1,4 +1,3 @@
-# otp-verification-system-python
 # 🔐 OTP Verification System (Python)
 
 An interactive **Python-based OTP verification system** that securely generates and sends a one-time password to users via email, simulating a real-world two-factor authentication process. Built using core Python libraries and Gmail's SMTP server, it highlights the importance of secure login flows and real-time identity verification.
